@@ -20,6 +20,9 @@ Add the current Swift Package in your application, selecting the Localized
 library to be added to your application target(s) when the 'Choose Package
 products' popup appears.
 
+You will then have to 'Trust & Enable' the macro before the application can
+be able to use it.
+
 After that you can `import Localized` and you will be ready to use the macro.
 
 ## Usage
